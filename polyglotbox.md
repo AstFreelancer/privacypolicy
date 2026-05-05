@@ -1,7 +1,3 @@
----
-title: Privacy Policy
----
-
 # Privacy Policy for Polyglot's Chest
 
 **Last updated: 5 May 2026**
